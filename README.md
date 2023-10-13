@@ -1,6 +1,6 @@
 ![SVG Banner](assets/banner.png)
 
-![](https://hit.yhype.me/github/profile?user_id=35969199)
+
 
 I make stuff.
 
