@@ -1,7 +1,5 @@
 ![SVG Banner](assets/banner.png)
 
-
-
 I make stuff.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliyasson&show_icons=true&theme=radical&count_private=true)
